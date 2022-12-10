@@ -1,0 +1,8 @@
+{
+	"exclamationPoint": {
+	  "scope": "javascript,html",
+	  "prefix": "exclamationPoint",
+	  "body": "<h1>!</h1>"
+	}
+  }
+  
