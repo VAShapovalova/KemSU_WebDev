@@ -1,0 +1,38 @@
+body {
+    background-color: #FFFFD0;
+    text-align: center;
+    margin: 0 auto 0 auto;
+}
+
+#title {
+    color: #A555EC;
+    margin: 150px auto 0 auto;
+    font-family: "Dancing Script";
+}
+
+#subtitle {
+    color: #D09CFA;
+    font-family: "Dancing Script";
+} 
+
+#first-cloud {
+    position: absolute;
+    right: 100px;
+    top: 50px;
+}
+
+#second-cloud {
+    position: absolute;
+    left: 100px;
+}
+
+#mountain {
+    margin: 0 auto 0 auto;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    /* left: 100px; */
+} 
