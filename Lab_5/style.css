@@ -1,0 +1,62 @@
+body {
+    background-color: #F1DDBF;
+    font-family: "Garamond";
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+hr {
+    margin: 16 auto 10px;
+	border: none;
+    width: 96%;
+	border-bottom: 3px solid #78938A;
+}
+
+h2, h3, summary, a {
+    color: #525E75;
+}
+
+p, pre{
+    color: #78938A;
+}
+
+h2 {
+    font-family: "Garamond Bold";
+}
+
+summary {
+    font-size: large;
+}
+
+#hr-unit {
+    border-bottom: 5px solid #78938A;
+    margin-bottom: 24px;
+    margin-top: 16;
+    width: 100%;
+}
+
+summary {
+    text-align: left;
+}
+
+ul {
+    list-style-type: square;
+    color: #525E75;
+    list-style-position: inside;
+}
+#edu-item {
+    text-align: left;
+    width: 90%;
+    margin: auto;
+}
+
+#contact {
+    font-family: "Garamond Bold";
+    font-size: large;
+}
+
+#group-item {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 16;
+}
